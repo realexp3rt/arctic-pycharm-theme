@@ -1,4 +1,4 @@
-# [ Arctic PYcharm Theme ]
+# [ Arctic PyCharm Theme ]
 
 Arctic is pycharm theme inspired by XCODE dark theme.
 
