@@ -1,15 +1,15 @@
 <scheme name="Arctic" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-07-25T14:01:07</property>
-    <property name="ide">PyCharmEdu</property>
-    <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2020-07-25T14:01:15</property>
+    <property name="created">2022-05-01T10:36:28</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2020.3.3.0.0</property>
+    <property name="modified">2022-05-01T10:36:36</property>
     <property name="originalScheme">Arctic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="23" />
-  <option name="EDITOR_FONT_NAME" value="SF Mono" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="CARET_COLOR" value="5b85f9" />
     <option name="CARET_ROW_COLOR" value="" />
@@ -546,10 +546,17 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="DELETED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="450505" />
+        <option name="EFFECT_COLOR" value="c3c3c3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c0c0c0" />
-        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DJANGO_COMMENT">
@@ -1099,7 +1106,7 @@
     <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff71b1" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
@@ -1179,11 +1186,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="f92672" />
@@ -1207,11 +1209,6 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="4d5d3d" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
